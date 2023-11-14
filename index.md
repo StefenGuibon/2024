@@ -1,1 +1,1 @@
-<meta http-equiv="Refresh" content="0; url=https://simpletext-project.com/2024/en/"/>
+<meta http-equiv="Refresh" content="0; url=https://stefenguibon.github.io/Localisation-1-EN/en/"/>
